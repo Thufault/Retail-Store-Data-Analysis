@@ -3,5 +3,5 @@ This dashboard provides insights into **Retail Store Data**, focusing on **key m
 
 ## **📊 Visual Insights**  
 ### **📌 Monthly Revenue Trend**  
-![Monthly Revenue](https://github.com/Thufault/Retail-Store-Data-Analysis/Sales_Data_ Analysis/SalesAnalysis/Sales Per Month/blob/main/images/Sales Per Month Bar Graph.png)
+![Monthly Revenue](https://github.com/Thufault/Retail-Store-Data-Analysis/blob/main/images/Sales Per Month Bar Graph.png)
 
